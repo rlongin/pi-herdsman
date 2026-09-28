@@ -1,0 +1,21 @@
+EF HNIC — Hierarchical Network Intelligence Coordinator
+EF Ventures distribution notes
+
+This repository is a branded derivative/fork of Pi Herdsman.
+
+Original project:
+  Pi Herdsman
+  https://github.com/boadij/pi-herdsman
+  Copyright 2026 Jeffrey Boadi
+
+Original and derivative source are distributed under the Apache License 2.0.
+See LICENSE for the complete license text.
+
+EF Ventures modifications:
+- EF HNIC product naming and surface branding
+- EF/Nexus deployment and integration documentation
+- EF-specific visual assets and configuration guidance
+
+The underlying package/runtime identifier remains "pi-herdsman" for compatibility.
+"EF HNIC" identifies the EF Ventures distribution and does not imply ownership of
+the upstream Pi Herdsman project, Pi, or herdr.

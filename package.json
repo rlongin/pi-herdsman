@@ -44,7 +44,7 @@
     "skills": [
       "."
     ],
-    "image": "https://raw.githubusercontent.com/boadij/pi-herdsman/main/docs/assets/thumbnail.webp"
+    "image": "https://raw.githubusercontent.com/rlongin/pi-herdsman/main/docs/assets/ef-hnic-icon.svg"
   },
   "scripts": {
     "test": "node --experimental-test-module-mocks --import=./scripts/test-env.mjs --test --test-timeout=10000",
@@ -76,6 +76,7 @@
     "README.md",
     "SKILL.md",
     "LICENSE",
+    "NOTICE",
     "docs",
     "dist"
   ],

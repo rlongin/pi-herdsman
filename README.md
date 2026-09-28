@@ -1,4 +1,14 @@
-# Pi Herdsman 🐏
+# EF HNIC
+
+<p align="center">
+  <img src="docs/assets/ef-hnic-icon.svg" width="128" alt="EF HNIC icon" />
+</p>
+
+**Hierarchical Network Intelligence Coordinator**
+
+EF HNIC is the EF Ventures branded distribution of **Pi Herdsman**, focused on coordinating asynchronous coding agents, nested delegation, background work, and multi-lead supervision for the Nexus ecosystem.
+
+> **Compatibility first:** the underlying extension/package remains `pi-herdsman`. Internal commands, APIs, and upstream package identity are intentionally preserved so upstream updates remain straightforward.
 
 ![Pi Herdsman: asynchronous Pi subagents and agent fleet orchestration](docs/assets/banner.webp)
 
@@ -43,6 +53,10 @@ to you.
 ## Demo
 
 ![Pi Herdsman delegating a coding task to an asynchronous subagent while the lead Pi session remains interactive.](docs/assets/demo.gif)
+
+## EF HNIC quick start
+
+For the EF Ventures/Nexus deployment guide, see [EF HNIC Setup](docs/ef-hnic-setup.md).
 
 ## Install
 
@@ -234,6 +248,17 @@ final pre-commit mutation, followed only by the read-only checks `npm run check`
 and `git diff --check`.
 
 See [Development validation](docs/development/validation.md) for the detailed validation order.
+
+## EF Ventures distribution
+
+This fork adds EF HNIC surface branding, deployment documentation, and Nexus integration guidance. It does **not** replace or obscure the original project attribution.
+
+- Product name in the EF Ventures ecosystem: **EF HNIC**
+- Expanded name: **Hierarchical Network Intelligence Coordinator**
+- Upstream project: **Pi Herdsman** by Jeffrey Boadi
+- Runtime/package compatibility name: `pi-herdsman`
+
+See [NOTICE](NOTICE) and [EF HNIC Setup](docs/ef-hnic-setup.md).
 
 ## License
 
