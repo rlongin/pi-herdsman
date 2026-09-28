@@ -1,0 +1,15 @@
+{
+  "name": "EF HNIC",
+  "longName": "Hierarchical Network Intelligence Coordinator",
+  "upstreamName": "Pi Herdsman",
+  "runtimePackage": "pi-herdsman",
+  "category": "Agent orchestration",
+  "icon": "docs/assets/ef-hnic-icon.svg",
+  "license": "Apache-2.0",
+  "upstream": "https://github.com/boadij/pi-herdsman",
+  "nexus": {
+    "surface": "Nexus Lab",
+    "runtime": "local-or-remote-machine",
+    "browserExecution": false
+  }
+}
